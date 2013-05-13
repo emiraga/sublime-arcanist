@@ -1,0 +1,6 @@
+[
+  {
+    "keys": ["super+ctrl+i"],
+    "command": "sublime_arcanist_inlines"
+  }
+]
